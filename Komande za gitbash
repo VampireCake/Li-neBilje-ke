@@ -1,9 +1,9 @@
+######
+OVDJE SE PISU KOMANDE ZA GIT BASH
 
-###### OVDJE SE PISU KOMANDE ZA GIT BASH
 
-
-
-### Komande za kretanje kroz foldere{
+### 
+Komande za kretanje kroz foldere{
 pwd - prikaz trenutne lokacije;
 cd - komanda za kretanje:
      cd .. - vratiti se jedan korak unazad,
@@ -12,15 +12,15 @@ cd - komanda za kretanje:
 ls - lista file-ova i folder-a u folder-u gdje se nalazimo;
 }
 
-
-### Komande za uređivanje foldera{
+### 
+Komande za uređivanje foldera{
 mkdir 'ime' - stvori folder;
 rmdir 'ime' - obrisi folder;
 git mv 'staroIme' 'novoIme' - rename foldera;
 }
 
-
-### Komande za zahtjev promjene na github-u{
+### 
+Komande za zahtjev promjene na github-u{
 git add 'imeFolder-a' - dodaje folder na listu promjena koje ce biti poslane na github;
 git status - pokazuje koji su stvari dodane za promjenu;
 git log - isto kao "git status" samo sto pokazuje resodlijed;
