@@ -17,6 +17,7 @@ Komande za uređivanje foldera{
 mkdir 'ime' - stvori folder;
 rmdir 'ime' - obrisi folder;
 git mv 'staroIme' 'novoIme' - rename foldera;
+touch 'ime fajla'.'ekstenzija' - pravi file;
 }
 
 ### 
