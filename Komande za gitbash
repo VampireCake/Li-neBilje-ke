@@ -25,5 +25,7 @@ Komande za zahtjev promjene na github-u{
 git add 'imeFolder-a' - dodaje folder na listu promjena koje ce biti poslane na github;
 git status - pokazuje koji su stvari dodane za promjenu;
 git log - isto kao "git status" samo sto pokazuje resodlijed;
+git commit -m "'porukaUzCommit'" - salje commit na github;
+git push - odobrava commit na github-u;
 ...
 }
